@@ -65,22 +65,22 @@ Pre Trained Checkpoints are available:
 <table>
 <tr>
 <th>Checkpoint Name</th>
-<th>Gdown Checkpoint</th>
+<th>Model Checkpoint</th>
 </tr>
 
 <tr>
 <td>Pretrained Llama 3.2:1B + DINOV2 BASE (224px) + SIGLIP BASE (224px) (2 Epochs)</td>
-<td></td>
+<td><center><a href="https://drive.google.com/file/d/1l9zjOr37XtJiTeWs-sJa6dBHj_4ZbD-K/view?usp=sharing">Link</a></center></td>
 </tr>
 
 <tr>
 <td>Instruct Llama 3.2:1B + DINOV2 BASE (224px) + SIGLIP BASE (224px) (2 Epochs)</td>
-<td></td>
+<td><center><a href="https://drive.google.com/file/d/1qGPdM_Bq_rB9f6dwbLph6tEvoAsSSg1j/view?usp=sharing">Link</a></center></td>
 </tr>
 
 <tr>
 <td>Instruct Llama 3.2:1B + DINOV2 BASE (224px) + SIGLIP BASE (224px) (6 Epochs)</td>
-<td></td>
+<td><center><a href="https://drive.google.com/file/d/14KM7lqMrAB02yZB_kF2-hwoeZhuTKtHr/view?usp=sharing">Link</a></center></td>
 </tr>
 </table>
 
