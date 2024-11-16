@@ -26,6 +26,7 @@ conda env create --name jetson_vlm --file environment.yml
 
 # Dataset Downloading
 
+### Llava v1.5 595K mixture
 For loading dataset to train Your Model, we have Modified Llava v1.5 595K Mixture Dataset and performed text formatting over it, and created a csv file to make it easy for Loading.
 
 Either Download CSV Manually from this [Link](https://drive.google.com/file/d/1yZagkp2xFmPd53Zo0FDPU-CNy8GmAyII/view?usp=sharing) or use
@@ -60,6 +61,7 @@ python3 train.py --per_device_batch_size 32 --learning_rate 2e-5 --output_dir ./
 # Checkpoints
 
 Pre Trained Checkpoints are available:
+### Vision Language Aligned Models
 <table>
 <tr>
 <th>Checkpoint Name</th>
@@ -81,6 +83,10 @@ Pre Trained Checkpoints are available:
 <td></td>
 </tr>
 </table>
+
+### Multimodal Instruction Tuned Models
+Coming soon
+### 
 <hr style="border: 2px solid gray;"></hr>
 
 # Generation
